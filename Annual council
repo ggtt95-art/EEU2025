@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Annual Council Meeting Agenda</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background: #f5f5f5;
+margin: 0;
+padding: 0;
+}
+header {
+background: #004080;
+color: white;
+padding: 20px;
+text-align: center;
+}
+.container {
+max-width: 800px;
+margin: 30px auto;
+background: white;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+h2 {
+border-bottom: 2px solid #004080;
+padding-bottom: 5px;
+}
+ul {
+line-height: 1.8;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Annual Council Meeting Agenda</h1>
+</header>
+
+
+<div class="container">
+<h2>Agenda</h2>
+<ul>
+<li>Opening Prayer</li>
+<li>Welcome & Introduction</li>
+<li>Review of Previous Minutes</li>
+<li>Financial Report</li>
+<li>Departmental Updates</li>
+<li>Strategic Planning Session</li>
+<li>Lunch Break</li>
+<li>Afternoon Workshops</li>
+<li>Open Discussion & Q&A</li>
+<li>Closing Remarks & Prayer</li>
+</ul>
+</div>
+</body>
+</html>
